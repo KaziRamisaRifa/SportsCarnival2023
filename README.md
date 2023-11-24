@@ -15,3 +15,5 @@ img/
     ...
     
 ```
+
+@ Developed and maintained by [Kazi Ramisa Rifa](https://kaziramisarifa.github.io/)
